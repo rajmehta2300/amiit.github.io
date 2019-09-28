@@ -12,6 +12,14 @@
 	
 	color:white;
 }
+.marginl{
+	
+	margin-left:50px;
+}
+.nex:hover{
+	background: linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
+	color:#fff;
+}
 
 
 
@@ -3152,7 +3160,7 @@ h6 {
       .footer-area .footer-bottom {
         margin-top: 20px; } }
     .footer-area .footer-bottom p {
-      color: #fff; }
+      color: #c738d8; }
     .footer-area .footer-bottom a,
     .footer-area .footer-bottom span {
       color: #c738d8; }
