@@ -20,6 +20,9 @@
 	background: linear-gradient(90deg, #7c32ff 0%, #c738d8 100%);
 	color:#fff;
 }
+.margintop{
+	margin-top:27px;
+}
 
 
 
@@ -3085,7 +3088,7 @@ h6 {
 
 .footer-area {
   padding: 100px 0px 20px;
-  background: url(../img/footer-bg2.png) no-repeat center; }
+  background: #000; }
   @media (max-width: 991px) {
     .footer-area {
       background: #222222;
@@ -3158,7 +3161,7 @@ h6 {
     margin-top: 90px; }
     @media (max-width: 991px) {
       .footer-area .footer-bottom {
-        margin-top: 20px; } }
+        padding-top:3px; padding-bottom:3px; } }
     .footer-area .footer-bottom p {
       color: #c738d8; }
     .footer-area .footer-bottom a,
