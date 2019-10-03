@@ -23,7 +23,18 @@
 .margintop{
 	margin-top:27px;
 }
-
+.address{
+	
+	color:black;
+	font-weight:bold;
+}
+.forfont{
+	font-size:17px;
+}
+.mm{
+	color:red;
+	font-weight:bold;
+}
 
 
 /*--------------------------- Color variations ----------------------*/
@@ -650,10 +661,10 @@ th {
   margin-right: 0; }
 
 .section-gap {
-  padding: 120px 0; }
+  padding: 0px 0; }
   @media (max-width: 991px) {
     .section-gap {
-      padding: 60px 0px; } }
+      padding: 0px 0px; } }
 
 .section-gap-top {
   padding-top: 120px; }
@@ -945,9 +956,9 @@ th {
       display: none; } }
 
 .banner-area {
-  background: url(../img/banner-bg.png) no-repeat center;
+  background: url(../img/banner-bg2.png) no-repeat center;
   background-position: right;
-  min-height: 510px; }
+  min-height: 600px; }
 
 .banner-right {
   margin-top: 200px;
